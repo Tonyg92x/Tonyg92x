@@ -23,10 +23,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/profile.png" alt="Logo" width="80" height="80">
+    <img src="images/profile.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">TonG92x</h3>
+  <h3 align="center">TonyG92x</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
