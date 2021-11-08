@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About me
-
+My name is Anthony Guay. I am 24 years old and I am studying in 42 Quebec. I am interested in game programming / security / malware analysis / IA. I went to University Sherbrooke to study buisness while playing american football and I went to Laval University in computer science. I apply the same work ethic I did on the football field to learn and become a great programmer. 
 
 <!-- CONTACT -->
 ## Contact
