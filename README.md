@@ -18,12 +18,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9eu59nf00540gl5unf4k8oo/stats?cursusId=21&coalitionId=249" alt="aguay's 42 stats" /></a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9eu59nf00540gl5unf4k8oo/stats?cursusId=21&coalitionId=249" alt="aguay's 42 stats" /></a>
   </a>
 
   <h3 align="center">TonyG92x</h3>
