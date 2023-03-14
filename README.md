@@ -30,7 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About me
-Sys admin, programmer and cybersec lover
+System administrator, programmer and passionate about cyber security.
 
 <!-- CONTACT -->
 ## Contact
