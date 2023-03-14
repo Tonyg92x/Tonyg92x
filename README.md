@@ -21,10 +21,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9eu59nf00540gl5unf4k8oo/stats?cursusId=21&coalitionId=249" alt="aguay's 42 stats" /></a>
-  </a>
-
   <h3 align="center">TonyG92x</h3>
 </div>
 
