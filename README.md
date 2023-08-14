@@ -26,7 +26,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About me
-System administrator, programmer and passionate about cyber security.
+Security Analyst, programmer, tech lover
 
 <!-- CONTACT -->
 ## Contact
